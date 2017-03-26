@@ -6,7 +6,7 @@ A Dockerfile that installs and runs the latest Moodle stable.
 ## Installation
 
 ```
-git clone https://github.com/jda/docker-moodle
+git clone https://github.com/Eisekson/docker-moodle.git
 cd docker-moodle
 docker build -t moodle .
 ```
